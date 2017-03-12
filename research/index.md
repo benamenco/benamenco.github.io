@@ -12,12 +12,6 @@ I mainly work in the field of .
 ## Microbiome Study
 -----
 
-<figure class="third">
-    <img src="{{ site.url }}/images/research/bcc.png" alt="">
-    <img src="{{ site.url }}/images/research/hex.png" alt="">
-    <img src="{{ site.url }}/images/research/gyroid.png" alt="">
-</figure>
-
 The microbiome area ...
 
 ### Topics
@@ -30,16 +24,12 @@ The microbiome area ...
 
 ### Research Notes
 
-* [A Quick Guide to the Self-Consistent Field Theory in Polymer Physics]({% post_url 2014-05-26-scft-guide %})
-
-* [Lecture Notes in Polymer Physics]({% post_url 2014-05-26-pp-notes %})
+1111.
 
 ## Metabolomics
 -----
 
-<figure>
-    <img src="{{ site.url }}/images/research/peo.png" alt="">
-</figure>
+1....
 
 Short intro of metabolomics
 1. to develop ;
@@ -58,7 +48,7 @@ Short intro of metabolomics
 ## Bioinformatics
 -----
 
-As an important part of my research, I have developed several computing software to do the actual computational tasks. Currently, I have released three open source software: [Polyorder]({{ site.url }}/software/), [Gyroid]({{ site.url }}/software/), [NGPy]({{ site.url }}/software/).
+As an important part of my research, I have developed several computing software to do the actual computational tasks. Currently, I have released three open source software:.
 
 ### Implemented Algorithms
 

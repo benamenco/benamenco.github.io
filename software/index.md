@@ -22,12 +22,8 @@ A is a C++ library which aims to ease the development of ... programs.
 
 ### Getting Started
 
-* [Introduction to the A project]({{ site.url }}/downloads/polyorder20120628.pdf)
-
-* [Configuration file format]({% post_url 2015-04-06-polyorder-config %})
+11.
 
 ### Useful Links
 
-* [A source code](https://bitbucket.org/ )
-
-* [A documentation](https://bitbucket.org/ )
+11.

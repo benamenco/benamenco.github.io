@@ -4,7 +4,7 @@ disqus_shortname: benamenco
 reading_time:     true
 words_per_minute: 200
 #url:                    # blank for local preview
-url: httsp://benamenco.github.io   # for production
+url: http://benamenco.github.io   # for production
 header-img: images/homepage.jpg
 excerpt_separator: "<!--more-->"
 
@@ -36,7 +36,7 @@ google_verify:   # Webmaster
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Beijing
+timezone:    Asia/Shanghai
 future:      true
 highlighter: rouge
 markdown:    kramdown

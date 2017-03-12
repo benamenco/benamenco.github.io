@@ -4,7 +4,7 @@ disqus_shortname: benamenco
 reading_time:     true
 words_per_minute: 200
 #url:                    # blank for local preview
-url: http://benamenco.github.io   # for production
+url: https://benamenco.github.io   # for production
 header-img: images/homepage.jpg
 excerpt_separator: "<!--more-->"
 

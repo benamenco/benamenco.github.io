@@ -2,7 +2,7 @@
 layout: page
 title: Research Interests
 description: "Microbiome, metabolomics, nutrition."
-header-img: images/research-1.jpg
+header-img: images/research-0.jpg
 comments: false
 modified: 2017-03-12
 ---
